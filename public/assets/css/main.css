@@ -1,0 +1,23 @@
+body {
+    background-color: #eee;
+}
+
+.bg-color-1 {
+    background-color: #000000;
+}
+
+.sidebar {
+    padding: 20px;
+    min-width: 250px !important;
+}
+
+.sidebar a {
+    color: #000;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+.sidebar a:hover {
+    background-color: #333;
+    color: #fff;
+}
